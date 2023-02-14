@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/Bastian1110">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bastian1110&hide=shaderlab,hlsl&layout=compact&theme=cobalt&langs_count=8" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bastian1110&hide=shaderlab&hide=makerfile,hlsl&layout=compact&theme=cobalt&langs_count=8" />
 </a>
