@@ -2,7 +2,7 @@
 
 # Hey, I'm Sebastian 👋
 
-### Software Developer II @ Oracle · `0x45`
+### Software Developer @ Oracle 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.mora.ink-404e72?style=flat-square)](https://portfolio.mora.ink)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-mora-ugalde-3693021b3)
