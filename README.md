@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sebastian 👋
+# Hey, I'm Sebastian 👻
 
 ### Software Developer @ Oracle
 
