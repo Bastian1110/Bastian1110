@@ -13,8 +13,8 @@
 I'm a Computer Science grad (Tec de Monterrey '24) who's passionate about solving problems as elegantly as possible — whether that's a clean algorithm, a smooth interface, or figuring out why something broke at 2 AM. When I'm not shipping code, I'm building side projects, listening to music, or on a basketball court.
 
 - 🔭 Currently building things at **Oracle**, previously interned at **Teradata**
-- 🦀 Into systems programming — Rust is my happy place
-- 🎨 Also enjoy the front-end side: Svelte, React, TypeScript
+- 🦫 Into systems programming — Go is my happy place
+- 🎨 Also enjoy the front-end side: Svelte, React, TypeScript, Tailwind 
 - 🧠 I like weird little side quests: NLP-in-WASM, custom EEPROM programmers, homemade CPU emulators
 
 ---
